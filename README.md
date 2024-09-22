@@ -2,7 +2,7 @@
 ###### <i>UC Berkeley MIDS `Applied Machine Learning` Group Project</i>
 
 ### Objective: 
-The goal of this project is to develop an Automated Essay Scoring (AES) system utilizing Natural Language Processing (NLP) technologies to autonomously grade argumentative essays, specifically targeting English Language Learners (ELLs) in grades 8 to 12. Current automated feedback tools often fail to provide feedback tailored to a student's language proficiency, which can result in biased evaluations. Our AES system is designed to enhance these tools by offering more personalized feedback to better support the unique needs of ELLs.
+The goal of this project is to classisfy breast cancer mount slide images into cancerous vs. non-cancerous. The images were obtained from the Kaggle website. We trained a baseline model and then three additional models with include Random Forest, CNN (Convolutional Neural Network), and CNN with transfer learning.
 
 ### Scoring Criteria:
 The AES system evaluates essays across six key analytical dimensions: cohesion, syntax, vocabulary, phraseology, grammar, and conventions. Each dimension reflects a specific aspect of writing proficiency, with scores ranging from 1.0 to 5.0, in increments of 0.5, where higher scores represent greater proficiency.
@@ -15,5 +15,5 @@ Starting with a frozen BERT-base-cased model as a baseline, we experimented with
 
 However, since the analytical measures followed a normal distribution, applying K-means clustering and k-fold cross-validation did not significantly enhance model performance. Our best result was a moderate MCRMSE loss score of 46%, achieved with 12 trainable layers in the BERT transformer model.
 
-Please see the link below for the team GitHub to check out the contributions:
+Please refer to the link below for more details on the teamwork:
 * [Team GitHub](https://github.com/TatiannaD/w207_fall2022_mlproject//)
