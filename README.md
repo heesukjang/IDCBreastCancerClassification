@@ -17,4 +17,4 @@ However, since the analytical measures followed a normal distribution, applying 
 
 Please see the link below for the team GitHub to check out the contributions:
 [Team GitHub]](https://github.com/TatiannaD/w207_fall2022_mlproject/)
-[Project Overview](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
+[Project Overview]([https://www.ischool.berkeley.edu/projects/2024/wastewizard](https://github.com/TatiannaD/w207_fall2022_mlproject//))
