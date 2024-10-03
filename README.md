@@ -2,7 +2,7 @@
 ###### <i>UC Berkeley MIDS `Applied Machine Learning` Group Project</i>
 
 ### Objective: 
-The goal of this project is to classisfy breast cancer mount slide images into cancerous vs. non-cancerous. The images were obtained from the Kaggle website. We trained a baseline model and then three additional models with include Random Forest, CNN (Convolutional Neural Network), and CNN with transfer learning.
+The goal of this project is to classisfy breast cancer mount slide images into cancerous vs. non-cancerous. The images were obtained from the [Kaggle website](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images). We trained SVM (Support Vector Machine) as a baseline model and advanced models, including Random Forest, CNN (Convolutional Neural Network), and CNN with transfer learning.
 
 ### Scoring Criteria:
 The AES system evaluates essays across six key analytical dimensions: cohesion, syntax, vocabulary, phraseology, grammar, and conventions. Each dimension reflects a specific aspect of writing proficiency, with scores ranging from 1.0 to 5.0, in increments of 0.5, where higher scores represent greater proficiency.
