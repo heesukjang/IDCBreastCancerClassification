@@ -11,5 +11,4 @@ For more details on the teamwork, please refer to the link below:
 
 ### Tehnologies Used: 
 Python, Tensorflow, Keras, Sklearn, Scipy, Plotly, Seaborn, Google Colab on GCP
-### Models Utilized: 
-Support Vector Machine (SVM), Random Forest, XGBoost, Convolutional Neural Networks (CNNs), and CNNs enhanced with Transfer Learning techniques, including VGG16, VGG19, ResNet50, ResNet152V2, and DenseNet201
+
