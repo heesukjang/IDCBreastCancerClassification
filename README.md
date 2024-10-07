@@ -8,3 +8,8 @@ As part of my individual contribution, I focused on building CNNs with five diff
 
 For more details on the teamwork, please refer to the link below:
 * [Team GitHub](https://github.com/TatiannaD/w207_fall2022_mlproject//)
+
+### Tehnologies Used: 
+Python, Tensorflow, Keras, Sklearn, Scipy, Plotly, Seaborn, Google Colab on GCP
+### Models Utilized: 
+Support Vector Machine (SVM), Random Forest, XGBoost, Convolutional Neural Networks (CNNs), and CNNs enhanced with Transfer Learning techniques, including VGG16, VGG19, ResNet50, ResNet152V2, and DenseNet201
